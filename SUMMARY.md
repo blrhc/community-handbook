@@ -17,5 +17,9 @@
 ## The Formal Stuff
 
 * [🔓 Validator](the-formal-stuff/validator/README.md)
-  * [Requesting Time Off](the-formal-stuff/validator/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+
+
+## The Formal Stuff 2
+
+* [🔓 Validator](the-formal-stuff/validator/README.md)
+
